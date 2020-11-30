@@ -1,3 +1,4 @@
+#!/bin/sh
 printf '\033[31m%s\033[m\n' '[*]Install config...'
 cd ~ 
 mv .bashrc .bashrc.org 
