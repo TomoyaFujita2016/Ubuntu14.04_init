@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/bin/sh
 # -*- coding: utf-8 -*-
 
 printf '\033[31m%s\033[m\n' '[*]Install packages...'
